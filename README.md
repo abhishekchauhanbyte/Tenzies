@@ -1,6 +1,7 @@
 # Tenzies
 
 Welcome to Tenzies ! This is a modern and feature-rich React web application that allows users to play tenzies .
+
 -----------------------------Roll the dice, take a chance, and let the Tenzies dance!--------------------------
 
 ## User Interface
