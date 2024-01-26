@@ -17,9 +17,8 @@ To run AwesomeApp locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/abhishekchauhanbyte/Tenzies.git`
 2. Install dependencies: `cd tenzies && npm install`
-3. Set up environment variables: Create a `.env` file in the root directory and add the required variables (e.g., API keys, database connection).
-4. Start the development server: `npm start`
-5. Open `http://localhost:3000` in your browser.
+3. Start the development server: `npm start`
+4. Open `http://localhost:5173` in your browser.
 
 
 ## Contributing
